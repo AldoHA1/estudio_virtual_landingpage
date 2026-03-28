@@ -1,6 +1,6 @@
-# Echo Lab - Digital Studio & Lab
+# Code&Craft - Digital Studio & Lab
 
-Echo Lab is a landing page for a digital studio that combines technical precision with creative vision. The site showcases services like landing pages, web development, publicity scripts, campaigns, and product development, along with a team section and a contact form.
+Code&Craft is a landing page for a digital studio that combines technical precision with creative vision. The site showcases services like landing pages, web development, publicity scripts, campaigns, and product development, along with a team section and a contact form.
 
 ## Tech Stack
 
